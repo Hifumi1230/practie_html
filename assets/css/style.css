@@ -29,13 +29,14 @@ body {
 
 .about {
     margin: 0;
+    padding: 0 15px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 /* .about-image {} */
 .about-caption {
-    padding-left: 15px;
+    padding-left: 50px;
 }
 .about-headline {
     margin: 0 0 20px;
